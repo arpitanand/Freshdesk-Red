@@ -878,11 +878,16 @@ containing a value of this type.
         public static int abc_split_action_bar_is_narrow=0x7f060002;
     }
     public static final class color {
-        public static int abc_search_url_text_holo=0x7f07000d;
+        public static int abc_search_url_text_holo=0x7f070010;
         public static int abc_search_url_text_normal=0x7f070000;
         public static int abc_search_url_text_pressed=0x7f070002;
         public static int abc_search_url_text_selected=0x7f070001;
         public static int actionbar_background_color=0x7f07000b;
+        /**  Blue button 
+         */
+        public static int green_button=0x7f07000d;
+        public static int green_button_disabled=0x7f07000f;
+        public static int green_button_pressed=0x7f07000e;
         /**  Color for all text from agent/customer support executive in the conversation view 
          */
         public static int mobihelp_conversation_agent_text=0x7f070006;
@@ -1114,23 +1119,26 @@ containing a value of this type.
         public static int abc_textfield_searchview_holo_light=0x7f020054;
         public static int abc_textfield_searchview_right_holo_dark=0x7f020055;
         public static int abc_textfield_searchview_right_holo_light=0x7f020056;
-        public static int mobihelp_chat_bubble_agent=0x7f020057;
-        public static int mobihelp_chat_bubble_review_bg=0x7f020058;
-        public static int mobihelp_chat_bubble_user=0x7f020059;
-        public static int mobihelp_ic_action_contact_us_dark=0x7f02005a;
-        public static int mobihelp_ic_action_contact_us_light=0x7f02005b;
-        public static int mobihelp_ic_action_search_dark=0x7f02005c;
-        public static int mobihelp_ic_action_search_light=0x7f02005d;
-        public static int mobihelp_ic_action_send_dark=0x7f02005e;
-        public static int mobihelp_ic_action_send_light=0x7f02005f;
-        public static int mobihelp_ic_action_submit_dark=0x7f020060;
-        public static int mobihelp_ic_action_submit_light=0x7f020061;
-        public static int mobihelp_ic_conversation_dark=0x7f020062;
-        public static int mobihelp_ic_conversation_light=0x7f020063;
-        public static int mobihelp_ic_playstore=0x7f020064;
-        public static int mobihelp_ic_unread_count=0x7f020065;
-        public static int mobihelp_unread_count_oval_bg=0x7f020066;
-        public static int music_logo=0x7f020067;
+        public static int btn_green=0x7f020057;
+        public static int btn_green_pressed=0x7f020058;
+        public static int mobihelp_chat_bubble_agent=0x7f020059;
+        public static int mobihelp_chat_bubble_review_bg=0x7f02005a;
+        public static int mobihelp_chat_bubble_user=0x7f02005b;
+        public static int mobihelp_ic_action_contact_us_dark=0x7f02005c;
+        public static int mobihelp_ic_action_contact_us_light=0x7f02005d;
+        public static int mobihelp_ic_action_search_dark=0x7f02005e;
+        public static int mobihelp_ic_action_search_light=0x7f02005f;
+        public static int mobihelp_ic_action_send_dark=0x7f020060;
+        public static int mobihelp_ic_action_send_light=0x7f020061;
+        public static int mobihelp_ic_action_submit_dark=0x7f020062;
+        public static int mobihelp_ic_action_submit_light=0x7f020063;
+        public static int mobihelp_ic_conversation_dark=0x7f020064;
+        public static int mobihelp_ic_conversation_light=0x7f020065;
+        public static int mobihelp_ic_playstore=0x7f020066;
+        public static int mobihelp_ic_unread_count=0x7f020067;
+        public static int mobihelp_unread_count_oval_bg=0x7f020068;
+        public static int music_logo=0x7f020069;
+        public static int selector_button=0x7f02006a;
     }
     public static final class id {
         public static int action_bar=0x7f05001c;
@@ -1451,6 +1459,7 @@ containing a value of this type.
     }
     public static final class style {
         public static int MyActionBar=0x7f0b008c;
+        public static int SearchField=0x7f0b008d;
         /**  Mimic text appearance in select_dialog_item.xml 
          */
         public static int TextAppearance_AppCompat_Base_CompactMenu_Dialog=0x7f0b0063;
@@ -1559,10 +1568,10 @@ containing a value of this type.
         /**  Base platform-dependent theme providing a light-themed activity. 
          */
         public static int Theme_Base_Light=0x7f0b007f;
-        public static int Theme_Base_Mobihelp=0x7f0b008e;
-        public static int Theme_Base_Mobihelp_Light=0x7f0b008f;
-        public static int Theme_Base_Mobihelp_Light_DarkActionBar=0x7f0b0090;
-        public static int Theme_Mobihelp=0x7f0b008d;
+        public static int Theme_Base_Mobihelp=0x7f0b008f;
+        public static int Theme_Base_Mobihelp_Light=0x7f0b0090;
+        public static int Theme_Base_Mobihelp_Light_DarkActionBar=0x7f0b0091;
+        public static int Theme_Mobihelp=0x7f0b008e;
         public static int Theme_MobihelpSDK_Light=0x7f0b008b;
         /**  Styles in here can be extended for customisation in your application. Each utilises
          one of the Base styles. If Holo themes are available on the current platform version

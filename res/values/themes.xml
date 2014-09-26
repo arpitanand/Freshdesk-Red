@@ -4,15 +4,21 @@
         <item name="mh_ic_menu_search">@drawable/mobihelp_ic_action_search_dark</item>
         <item name="mh_ic_menu_submit">@drawable/mobihelp_ic_action_submit_dark</item>
         <item name="mh_ic_menu_contact_us">@drawable/mobihelp_ic_action_contact_us_dark</item>
-        <item name="mh_ic_conversations">@drawable/mobihelp_ic_conversation_dark</item>
-        <item name="mh_ic_send">@drawable/mobihelp_ic_action_send_dark</item>
+        <item name="mh_ic_conversations">@drawable/mobihelp_ic_conversation_light</item>
+        <item name="mh_ic_send">@drawable/mobihelp_ic_action_send_light</item>
         <item name="actionBarStyle">@style/MyActionBar</item>
         <item name="android:actionBarStyle" tools1:ignore="NewApi">@style/MyActionBar</item>
+        <item name="searchViewAutoCompleteTextView">@style/SearchField</item>
     </style>
 
     <style name="MyActionBar" parent="@style/Widget.AppCompat.Light.ActionBar.Solid.Inverse">
         <item name="android:background">@color/actionbar_background_color</item>
         <item name="background">@color/actionbar_background_color</item>
+    </style>
+
+    <style name="SearchField">
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textColorHint">@color/white</item>
     </style>
 
 </resources>

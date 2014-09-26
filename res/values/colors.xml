@@ -12,7 +12,7 @@
     <color name="mobihelp_conversation_user_text">@color/mobihelp_white</color>
 
     <!-- Color for all text from agent/customer support executive in the conversation view -->
-    <color name="mobihelp_conversation_agent_text">#ed1c24</color>
+    <color name="mobihelp_conversation_agent_text">#040404</color>
 
     <!-- Color for the text accompanying a in-conversation review request -->
     <color name="mobihelp_conversation_review_request_text">#7d7d7d</color>
@@ -25,5 +25,9 @@
     <color name="mobihelp_white">#FFFFFF</color>
     <color name="actionbar_background_color">#ed1c24</color>
     <color name="white">#FFFFFF</color>
+    <!-- Blue button -->
+    <color name="green_button">#049fcb</color>
+    <color name="green_button_pressed">#008bb2</color>
+    <color name="green_button_disabled">#aed0da</color>
     
 </resources>
