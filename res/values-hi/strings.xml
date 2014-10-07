@@ -1,0 +1,108 @@
+<resources>
+
+    <string name="app_name">FreshdeskSDK</string>
+
+    <!-- Title of Support Screen (Solution List Activity) -->
+    <string name="mobihelp_activity_title_solution_list">सपोर्ट</string>
+
+    <!-- Title of Tickets List Activity -->
+    <string name="mobihelp_activity_title_tickets_list">बातचीत</string>
+
+    <!-- Title of Feedback Activity for 2 way conversations -->
+    <string name="mobihelp_activity_title_feedback">बातचीत शुरू करें</string>
+    
+    <!-- Title of Feedback Activity for feedback -->
+    <string name="mobihelp_activity_title_feedback_only">प्रतिक्रिया</string>
+
+    <!-- Default title for Solution Article incase solution doesnot have a valid title --> 
+    <string name="mobihelp_activity_title_solution_article">समाधान</string>
+    
+    <!-- Text for "Contact Us" button in the Support Screen (Solution Article List Activity) -->
+    <string name="mobihelp_label_contact_us">हमसे संपर्क करें</string>
+    
+    <!-- Text below the Contact Us button in the Support Screen (Solution Article List Activity) -->
+    <string name="mobihelp_label_contact_us_description_text">जो आप खोज रहे हैं, यदि वो नहीं मिलता तो हमसे संपर्क करें</string>
+
+    <!-- Text for "My Conversations" in the Support Screen (Solution Article List Activity) -->
+    <string name="mobihelp_label_my_conversations">मेरी बातचीत</string>
+    
+    <!-- Text for "Solutions" label view in the Support Screen (Solution Article List Activity) -->
+    <string name="mobihelp_label_support_solutions_list_label">समाधान</string>
+    
+    <!-- Text for request review item in the conversation view of ticket (Conversation Activity) -->
+    <string name="mobihelp_label_request_review">प्लेस्टोर में ऐप को रिव्यू करने के लिए यहां क्लिक करें</string>
+    
+    <!-- Default name for anonymous users or users who did not provide a name when name is optional -->
+    <string name="mobihelp_default_anon_user_name">MobihelpUser</string>
+    
+    <!-- UI Element hints -->
+    <string name="mobihelp_hint_email">ई-मेल</string>
+    <string name="mobihelp_hint_feedback">आप क्या सोच रहे हैं?</string>
+    <string name="mobihelp_hint_name">नाम</string>
+    <string name="mobihelp_hint_required_field">(आवश्यक)</string>
+    <string name="mobihelp_hint_optional_field">(वैकल्पिक)</string>
+    <string name="mobihelp_hint_enter_text_here">यहां संदेश लिखें</string>
+    <string name="mobihelp_hint_solutions_search_query_hint">हमारे ज्ञानकोष से सर्च करें</string>
+
+    <!-- Error Messages -->
+    <string name="mobihelp_error_no_network_connection">इंटरनेट से नहीं जुड़ा है!</string>
+    <string name="mobihelp_error_name_not_present">कृपया अपना नाम डालें</string>
+    <string name="mobihelp_error_email_not_present">कृपया ईमेल डालें</string>
+	<string name="mobihelp_error_email_not_valid">कृपया एक वैध ईमेल डालें</string>    
+    <string name="mobihelp_error_description_not_present">कृपया समस्या के बारे में बताएं</string>
+    <string name="mobihelp_error_genreic_retry_message">कृपया कुछ देर बार कोशिश करें</string>
+
+    <!-- Menu Items -->
+    
+    <!-- Title for "Search" menu item in Support Screen (Solution Article List Activity) -->
+    <string name="mobihelp_menu_item_title_search_solutions">सर्च</string>
+    
+    <!-- Title for "Contact Us" menu item in Support Screen (Solution Article List Activity) -->
+    <string name="mobihelp_menu_item_title_contact_us">हमसे संपर्क करें</string>
+    
+    <!-- Title for "Submit" menu item in Feedback Screen (Feedback Activity) -->
+    <string name="mobihelp_menu_item_title_submit">सब्मिट</string>
+
+    <!-- Misc -->
+    <string name="mobihelp_content_description_send_message">भेजें</string>
+    <string name="mobihelp_content_description_device_screenshot">डिवाइस स्क्रीनशॉट</string>
+    <string name="mobihelp_tickets_list_empty_message">नई बातचीत शुरू करने के लिए यहां टैप करें</string>
+    <string name="mobihelp_solutions_list_empty_message">कोई समाधान मौजूद नहीं हैं</string>
+    <string name="mobihelp_message_ticket_submitted_thank_you">धन्यवाद! आपकी प्रतिक्रिया भेज दी गई है!</string>
+    <string name="mobihelp_message_request_succeded">सफलतापूर्वक भेजी गई</string>
+    <string name="mobihelp_message_request_failed">भेज पाने में असफल. कृपया फिर कोशिश करें</string>
+    <string name="mobihelp_message_failed_to_load_solution_article">यह आर्टिकल लोड नहीं हो पा रहा</string>
+    <string name="mobihelp_message_support_agent">सपोर्ट</string>
+    <string name="mobihelp_message_pending">भेज रहे हैं..</string>
+    
+    <!-- Rating Dialog Title, Text & Button labels -->
+    <string name="mobihelp_rating_dialog_text">यदि आप इस ऐप को एंजॉय कर रहे हैं तो कृपया इसे अपनी रेटिंग दें. आपके सहयोग के लिए धन्यवाद!</string>
+    <string name="mobihelp_rating_dialog_title">रेट</string>
+    <string name="mobihelp_rating_dialog_rate_button">रेट</string>
+    <string name="mobihelp_rating_dialog_not_now_button">अभी नहीं</string>
+    <string name="mobihelp_rating_dialog_feedback_button">प्रतिक्रिया</string>
+    
+    <!-- Text used to describe the time each item in the conversation -->
+    <string name="mobihelp_time_just_now">अभी-अभी</string>
+    <string name="mobihelp_time_n_mins_ago">{mins} मिनट पहले</string>
+    
+    <plurals name="mobihelp_time_n_hrs_ago">
+        <item quantity="one">{hours} घंटे पहले</item>
+        <item quantity="other">{hours} घंटे पहले</item>
+    </plurals>
+    
+    <plurals name="mobihelp_time_n_weeks_ago">
+        <item quantity="one">{weeks} सप्ताह पहले</item>
+        <item quantity="other">{weeks} सप्ताह पहले</item>
+    </plurals>
+    
+    <plurals name="mobihelp_time_n_months_ago">
+        <item quantity="one">{months} महीना पहले</item>
+        <item quantity="other">{months} महीने पहले</item>
+    </plurals>
+    
+    <string name="mobihelp_time_a_day_ago">एक दिन पहले</string>
+    <string name="mobihelp_time_n_days_ago">{days} दिन पहले</string>
+    <string name="mobihelp_time_more_than_a_year_ago">एक साल से भी पहले</string>
+
+</resources>

@@ -1351,30 +1351,37 @@ containing a value of this type.
         public static int app_name=0x7f0a000e;
         /**  Title of Feedback Activity for 2 way conversations 
  Title of Feedback Activity for 2 way conversations 
+ Title of Feedback Activity for 2 way conversations 
          */
         public static int mobihelp_activity_title_feedback=0x7f0a0011;
         /**  Title of Feedback Activity for feedback 
+ Title of Feedback Activity for feedback 
  Title of Feedback Activity for feedback 
          */
         public static int mobihelp_activity_title_feedback_only=0x7f0a0012;
         /**  Default title for Solution Article incase solution doesnot have a valid title 
  Default title for Solution Article incase solution doesnot have a valid title 
+ Default title for Solution Article incase solution doesnot have a valid title 
          */
         public static int mobihelp_activity_title_solution_article=0x7f0a0013;
         /**  Title of Support Screen (Solution List Activity) 
  Title of Support Screen (Solution List Activity) 
+ Title of Support Screen (Solution List Activity) 
          */
         public static int mobihelp_activity_title_solution_list=0x7f0a000f;
         /**  Title of Tickets List Activity 
+ Title of Tickets List Activity 
  Title of Tickets List Activity 
          */
         public static int mobihelp_activity_title_tickets_list=0x7f0a0010;
         public static int mobihelp_content_description_device_screenshot=0x7f0a002b;
         /**  Misc 
  Misc 
+ Misc 
          */
         public static int mobihelp_content_description_send_message=0x7f0a002a;
         /**  Default name for anonymous users or users who did not provide a name when name is optional 
+ Default name for anonymous users or users who did not provide a name when name is optional 
  Default name for anonymous users or users who did not provide a name when name is optional 
          */
         public static int mobihelp_default_anon_user_name=0x7f0a0019;
@@ -1385,9 +1392,11 @@ containing a value of this type.
         public static int mobihelp_error_name_not_present=0x7f0a0022;
         /**  Error Messages 
  Error Messages 
+ Error Messages 
          */
         public static int mobihelp_error_no_network_connection=0x7f0a0021;
         /**  UI Element hints 
+ UI Element hints 
  UI Element hints 
          */
         public static int mobihelp_hint_email=0x7f0a001a;
@@ -1399,25 +1408,31 @@ containing a value of this type.
         public static int mobihelp_hint_solutions_search_query_hint=0x7f0a0020;
         /**  Text for "Contact Us" button in the Support Screen (Solution Article List Activity) 
  Text for "Contact Us" button in the Support Screen (Solution Article List Activity) 
+ Text for "Contact Us" button in the Support Screen (Solution Article List Activity) 
          */
         public static int mobihelp_label_contact_us=0x7f0a0014;
         /**  Text below the Contact Us button in the Support Screen (Solution Article List Activity) 
+ Text below the Contact Us button in the Support Screen (Solution Article List Activity) 
  Text below the Contact Us button in the Support Screen (Solution Article List Activity) 
          */
         public static int mobihelp_label_contact_us_description_text=0x7f0a0015;
         /**  Text for "My Conversations" in the Support Screen (Solution Article List Activity) 
  Text for "My Conversations" in the Support Screen (Solution Article List Activity) 
+ Text for "My Conversations" in the Support Screen (Solution Article List Activity) 
          */
         public static int mobihelp_label_my_conversations=0x7f0a0016;
         /**  Text for request review item in the conversation view of ticket (Conversation Activity) 
+ Text for request review item in the conversation view of ticket (Conversation Activity) 
  Text for request review item in the conversation view of ticket (Conversation Activity) 
          */
         public static int mobihelp_label_request_review=0x7f0a0018;
         /**  Text for "Solutions" label view in the Support Screen (Solution Article List Activity) 
  Text for "Solutions" label view in the Support Screen (Solution Article List Activity) 
+ Text for "Solutions" label view in the Support Screen (Solution Article List Activity) 
          */
         public static int mobihelp_label_support_solutions_list_label=0x7f0a0017;
         /**  Title for "Contact Us" menu item in Support Screen (Solution Article List Activity) 
+ Title for "Contact Us" menu item in Support Screen (Solution Article List Activity) 
  Title for "Contact Us" menu item in Support Screen (Solution Article List Activity) 
          */
         public static int mobihelp_menu_item_title_contact_us=0x7f0a0028;
@@ -1425,9 +1440,12 @@ containing a value of this type.
  Title for "Search" menu item in Support Screen (Solution Article List Activity) 
  Menu Items 
  Title for "Search" menu item in Support Screen (Solution Article List Activity) 
+ Menu Items 
+ Title for "Search" menu item in Support Screen (Solution Article List Activity) 
          */
         public static int mobihelp_menu_item_title_search_solutions=0x7f0a0027;
         /**  Title for "Submit" menu item in Feedback Screen (Feedback Activity) 
+ Title for "Submit" menu item in Feedback Screen (Feedback Activity) 
  Title for "Submit" menu item in Feedback Screen (Feedback Activity) 
          */
         public static int mobihelp_menu_item_title_submit=0x7f0a0029;
@@ -1443,6 +1461,7 @@ containing a value of this type.
         public static int mobihelp_rating_dialog_rate_button=0x7f0a0036;
         /**  Rating Dialog Title, Text & Button labels 
  Rating Dialog Title, Text & Button labels 
+ Rating Dialog Title, Text & Button labels 
          */
         public static int mobihelp_rating_dialog_text=0x7f0a0034;
         public static int mobihelp_rating_dialog_title=0x7f0a0035;
@@ -1450,6 +1469,7 @@ containing a value of this type.
         public static int mobihelp_tickets_list_empty_message=0x7f0a002c;
         public static int mobihelp_time_a_day_ago=0x7f0a003b;
         /**  Text used to describe the time each item in the conversation 
+ Text used to describe the time each item in the conversation 
  Text used to describe the time each item in the conversation 
          */
         public static int mobihelp_time_just_now=0x7f0a0039;
